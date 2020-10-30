@@ -1,3 +1,36 @@
+------English------
+
+## Introduction
+
+
+First of all, the purpose of this article is educational. I am aware that the content covered in the article can be used for both good and evil.
+
+A great application for a keylogger would be to allow parents to monitor what their children are doing on the computer. If you are the child's direct caregiver, this activity is legitimate and does not require authorization.
+
+In cases where you are not responsible for the person, the use of a keylogger requires the CONSENT of both parties, otherwise the activity is considered a CRIME.
+
+So be warned, using a keylogger to discover your girlfriend's Facebook password is a crime!
+
+A simple Keylogger in Python 3.
+
+Requires pynput:
+
+<b> pip3 install pynput </b>
+
+You need to set up the logFile variable to an appropriate location in your system:
+
+logFile = "/ home / user / SEUDIRETORIO"
+
+To run the script just type:
+
+<b> python3 keylogger.py </b>
+
+Code comments in Portuguese.
+
+
+Downloading Repo ```git clone https://github.com/WinG4mer/keylogger```
+
+------Português------
 
 ## Introdução
 

